@@ -32,7 +32,7 @@ img {
 .divImgContainer {
     display: flex; 
     justify-content: center;
-    align-items; 100px;
+    align-items: 100px;
     margin: 100px;
 }
 
