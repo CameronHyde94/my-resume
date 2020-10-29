@@ -1,0 +1,41 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+    background-color: black;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+p {
+    color: red;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#divMainImgContainer {
+    margin: 200px;
+
+}
+
+#hYourHome {
+    font-size: 50px;
+}
+
+.divImgContainer {
+    display: flex; 
+    justify-content: center;
+    align-items; 100px;
+    margin: 100px;
+}
+
+hSubs {
+    font-size: 25px;
+}
